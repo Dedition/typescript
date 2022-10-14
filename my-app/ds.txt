@@ -1,0 +1,90 @@
+An object is an unordered collection of properties.
+Each property has a name and a value.
+ A property’s value can be a primitive value, object, function, or even another array.
+
+ The datatypes in JavaScript are:
+
+ String - a sequence of characters used to represent text
+
+ Number - integer or floating point
+
+ Boolean - true or false
+
+ Object - Arrays, Dates, Math, Regular Expressions, Functions, Objects, Errors. All are objects.
+
+ Null - a special type of object. It has a single value: null
+
+ Undefined - A variable that has not been assigned a value is of type undefined.
+
+ BigInt - new in ES2020 and is used to represent integers with arbitrary precision.
+
+ Symbol - new in ES6 and is used to create unique identifiers for objects.
+
+An array is a special kind of object. More specifically, it's a contiguous collection of properties.
+What this means is that the properties of an array are numbered sequentially, starting with 0.
+
+
+ The way React works is that it takes a bunch of data and renders it into a view.
+ React mostly works on the virtual DOM, which is a representation of the real DOM.
+The virtual DOM is a JavaScript object that is a representation of the real DOM. It is a lightweight representation of the real DOM.
+The benefit of using the virtual DOM is that it is much faster to update than the real DOM. Another benefit is that it is easier to work with than the real DOM.
+The best reason to use React is that it is a declarative library.
+It is declarative because it allows you to describe what you want to see on the screen, and React will take care of updating the DOM to match that description.
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+React Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class.
+React 16.8 came out in February 2019. It was the first release to include Hooks.
+The reason they are called hooks is that they “hook into” React state and lifecycle features from function components.
+The reason they are so useful is that they allow you to reuse stateful logic between components.
+
+
+Taoism holds that humans and animals should live in balance with the Tao, or the universe.
+Taoists believe in spiritual immortality, where the spirit of the body joins the universe after death.
+Wuxia is a genre of Chinese fiction concerning the adventures of martial artists in ancient China.
+Xianxia is a genre of Chinese fiction concerning the adventures of martial artists in ancient China.
+Xuanhuan is a genre of Chinese fiction concerning the adventures of martial artists in ancient China.
+The Three Kingdoms period is a period in Chinese history from 220 to 280 AD.
+
+The Edo period is a period in Japanese history from 1603 to 1868 AD. It was an era of peace and growth in Japan.
+Books in this era are mainly about the samurai, and the samurai are the main characters in the books.
+
+
+The differences between Python and JavaScript are:
+
+ Python is an interpreted language, while JavaScript is a compiled language.
+ What this means is that Python is executed line by line,
+ while JavaScript is compiled into machine code before it is executed.
+
+ Python is a high-level language, while JavaScript is a low-level language.
+    What this means is that Python is easier to read and write, while JavaScript is more difficult to read and write.
+
+ Python is a general-purpose language, while JavaScript is a scripting language.
+    What this means is that Python can be used for many different things, while JavaScript is mainly used for web development.
+
+ Python is a dynamically typed language, while JavaScript is a statically typed language.
+    What this means is that Python does not require you to specify the type of a variable when you declare it, while JavaScript does.
+
+ Python is a case-sensitive language, while JavaScript is a case-insensitive language.
+    What this means is that Python is case-sensitive, while JavaScript is not.
+
+ Python is a whitespace-sensitive language, while JavaScript is a whitespace-insensitive language.
+    What this means is that Python is whitespace-sensitive, while JavaScript is not.
+
+ Python is a multi-paradigm language, while JavaScript is a single-paradigm language.
+    What this means is that Python supports multiple programming paradigms, while JavaScript only supports the object-oriented programming paradigm.
+
+ Python is a functional language, while JavaScript is an object-oriented language.
+    What this means is that Python supports functional programming, while JavaScript does not.
+
+
+Commercial Real Estate is a type of real estate that is used for business purposes.
+The most common types of commercial real estate are office buildings, retail buildings, and industrial buildings.
+Unlike bonds and equity, commercial real estate is not a liquid investment.
+
+A market network is a network of buyers and sellers of a particular product or service.
+The most common types of market networks are the stock market, the bond market, and the real estate market.
+The benefit of using a market network is that it allows buyers and sellers to find each other easily.
+
+An RFP is a request for proposal. It is a document that is used to request a proposal from a vendor.
+The benefit of using an RFP is that it allows you to compare proposals from different vendors.
+The best reason to use an RFP is that it allows you to compare proposals from different vendors.
