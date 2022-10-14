@@ -9,18 +9,27 @@ let role: [number, string];
 
 let printName: (name: string) => never;
 
-// type Person = {
+
+// let personName: unknown;
+
+// interface Person {
 //   name: string;
 //   age?: number;
-// };
-
-// let person: Person = {
-//   name: 'Grace',
 // }
 
-// let lotsOfPeople: Person[];
+// interface Guy extends Person {
+//   profession: string;
+// }
 
-let personName: unknown;
+// type X = {
+//   a: string;
+//   b: number;
+// }
+
+// let y: Guy = {
+//   name: 'Leo',
+//   profession: 'Software Enginerr'
+// }
 
 
 function App() {
