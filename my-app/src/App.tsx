@@ -3,13 +3,14 @@ import { InputField } from './components/InputField';
 import './App.css';
 
 const App: React.FC = () => {
-  const [todo, setTodo] = useState<number | string>("");
+  const [todo, setTodo] = useState<string>("");
+
 
 
   return (
     <div className="App">
       <span className="heading">Tasks of Many</span>
-      <InputField />
+      <InputField todo={todo} setTodo={setTodo} />
     </div>
   );
 }
